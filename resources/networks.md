@@ -95,6 +95,10 @@ description: Superfluid contract addresses for all networks
 | IDAv1 | [0xB0aABBA4B2783A72C52956CDEF62d438ecA2d7a1](https://explorer-mainnet.maticvigil.com/address/0xB0aABBA4B2783A72C52956CDEF62d438ecA2d7a1) |
 | MATIC | Native token |
 | MATICx | [0x3aD736904E9e65189c3000c7DD2c8AC8bB7cD4e3](https://explorer-mainnet.maticvigil.com/address/0x3aD736904E9e65189c3000c7DD2c8AC8bB7cD4e3) |
+| ETHx | [0x27e1e4E6BC79D93032abef01025811B7E4727e85](https://explorer-mainnet.maticvigil.com/address/0x27e1e4E6BC79D93032abef01025811B7E4727e85) |
+| USDCx | [0xCAa7349CEA390F89641fe306D93591f87595dc1F](https://explorer-mainnet.maticvigil.com/address/0xCAa7349CEA390F89641fe306D93591f87595dc1F) |
+| DAIx | [0x1305F6B6Df9Dc47159D12Eb7aC2804d4A33173c2](https://explorer-mainnet.maticvigil.com/address/0x1305F6B6Df9Dc47159D12Eb7aC2804d4A33173c2) |
+| WBTCx | [0x4086eBf75233e8492F1BCDa41C7f2A8288c2fB92](https://explorer-mainnet.maticvigil.com/address/0x4086eBf75233e8492F1BCDa41C7f2A8288c2fB92) |
 {% endtab %}
 {% endtabs %}
 
